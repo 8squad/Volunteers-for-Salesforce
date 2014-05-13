@@ -312,6 +312,7 @@
         <members>Volunteer_Recurrence_Schedule__c</members>
         <members>Volunteer_Shift__c</members>
         <members>Volunteers_Settings__c</members>
+		<members>Opportunity_Competitor__c</members>
         <name>CustomObject</name>
     </types>
     <types>
@@ -343,11 +344,11 @@
         <members>Volunteers_Wizard</members>
         <name>CustomTab</name>
     </types>
-    <types>
+    <!--<types>
         <members>Volunteer_Dashboards</members>
         <members>Volunteer_Dashboards/Volunteers_Dashboard2</members>
         <name>Dashboard</name>
-    </types>
+    </types>-->
     <types>
         <members>Volunteers_Documents</members>
         <members>Volunteers_Documents/JobCalendarCSS_css.css</members>
@@ -419,7 +420,7 @@
         <members>Campaign.Volunteers_Campaign</members>
         <name>RecordType</name>
     </types>
-    <types>
+    <!--<types>
         <members>Volunteer_Reports</members>
         <members>Volunteer_Reports/Active_Volunteers</members>
         <members>Volunteer_Reports/Available_Volunteer_Jobs</members>
@@ -452,7 +453,7 @@
         <members>Volunteer_Reports/Volunteers_by_Skill</members>
         <members>Volunteer_Reports/Volunteers_with_any_Volunteer_Status</members>
         <name>Report</name>
-    </types>
+    </types>-->
     <types>
         <members>Accounts</members>
         <members>Volunteer_Campaigns</members>
@@ -468,10 +469,10 @@
         <members>wtooltip</members>
         <name>StaticResource</name>
     </types>
-    <types>
+    <!--<types>
         <members>fr</members>
         <name>Translations</name>
-    </types>
+    </types>-->
     <types>
         <members>Volunteer_Hours__c.HoursRequiredOnCompletion</members>
         <members>Volunteer_Hours__c.StatusMustBeSet</members>
