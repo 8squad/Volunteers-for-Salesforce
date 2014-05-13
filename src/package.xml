@@ -106,8 +106,7 @@
         <members>Lead.Volunteer_Notes__c</members>
         <members>Lead.Volunteer_Skills__c</members>
         <members>Lead.Volunteer_Status__c</members>
-		<!--<members>Opportunity_Competitor__c.CompetitorName__c</members>
-		<members>Opportunity_Competitor__c.Name</members>-->
+		<members>Opportunity_Competitor__c.Competitor_Name__c</members>
         <members>Volunteer_Hours__c.Comments__c</members>
         <members>Volunteer_Hours__c.Contact__c</members>
         <members>Volunteer_Hours__c.End_Date__c</members>
@@ -456,13 +455,13 @@
         <members>Volunteer_Reports/Volunteers_with_any_Volunteer_Status</members>
         <name>Report</name>
     </types>-->
-    <types>
+    <!--<types>
         <members>Accounts</members>
         <members>Volunteer_Campaigns</members>
         <members>Volunteer_Jobs_and_Hours</members>
         <members>Volunteer_Jobs_with_Shifts_Hours</members>
         <name>ReportType</name>
-    </types>
+    </types>-->
     <types>
         <members>Bootstrap</members>
         <members>Bootstrap4Force</members>
